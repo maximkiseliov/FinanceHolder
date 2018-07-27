@@ -1,6 +1,6 @@
 TODO:
-1. to add "Удалить" window with function of deleting a record from the DB by id
-2. to change data type in db for TOTAL column from INTEGER to REAL
+DONE 1. to add "Удалить" window with function of deleting a record from the DB by id
+DONE 2. to change data type in db for TOTAL column from INTEGER to REAL
 3. to add Graphic window where in form of graphic will be displayed all incomes and outcomes
-4. to add functionality of displaymnet of all records from DB on the main window
-5. to add functionality of refresh DB on the main window
+DONE 4. to add functionality of displaymnet of all records from DB on the main window
+DONE 5. to add functionality of refresh DB on the main window
